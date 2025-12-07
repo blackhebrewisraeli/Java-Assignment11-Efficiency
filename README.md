@@ -11,7 +11,7 @@
 
 
 ## Author
-- **Name**: Shimon Esterkin (SemionVlad)
+- **Name**: Shimon Esterkin (blackhebrewisraeli)
 - **ID**: *****2258   
 - **Version**: 2025B
 
@@ -62,4 +62,4 @@ The assignment received a final score of **95/100**.
 
 ---
 
-Created by [SemionVlad](https://github.com/SemionVlad) for academic and portfolio purposes. This repository is intended for **non-commercial**, **educational** sharing only.
+Created by [blackhebrewisraeli](https://github.com/blackhebrewisraeli) for academic and portfolio purposes. This repository is intended for **non-commercial**, **educational** sharing only.
